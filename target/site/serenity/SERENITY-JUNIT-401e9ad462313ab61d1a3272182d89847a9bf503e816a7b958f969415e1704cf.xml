@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="As an Inlaze user I want to register my account on the platform" skipped="0" tests="3" time="46.76" timestamp="2024-12-18 11:37:33"><testcase name="User registration Successful"/><testcase name="User registration whit validations"><failure message="The system is accepting the wrong format in the email field expected:&lt;true&gt; but was:&lt;null&gt;" type="java.lang.AssertionError">The system is accepting the wrong format in the email field expected:&lt;true&gt; but was:&lt;null&gt;</failure><system-err>The system is accepting the wrong format in the email field expected:&lt;true&gt; but was:&lt;null&gt;&#13;
+steps.login.SingUpSteps.validateEmail(SingUpSteps.java:40)&#13;
+steps.login.SingUpSteps.validateFields(SingUpSteps.java:21)&#13;
+defintions.login.SignUpDefinitions.completeTheRegistrationFormWhitValidations(SignUpDefinitions.java:18)&#13;
+✽.complete the registration form whit validations "Register Test" registerTest@gmail.com Colombia2024.(src/test/resources/features/register_user.feature:18)&#13;
+</system-err></testcase></testsuite>

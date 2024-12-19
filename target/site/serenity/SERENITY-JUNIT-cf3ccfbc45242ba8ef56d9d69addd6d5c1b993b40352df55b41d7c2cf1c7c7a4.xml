@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="As an Inlaze user I want to login my account for access platform" skipped="0" tests="2" time="14.45" timestamp="2024-12-18 11:37:19"><testcase name="User Login Successful"/><testcase name="User Login whit validation"><failure message="The Sign In button is enable whit a format fail email expected:&lt;true&gt; but was:&lt;null&gt;" type="java.lang.AssertionError">The Sign In button is enable whit a format fail email expected:&lt;true&gt; but was:&lt;null&gt;</failure><system-err>The Sign In button is enable whit a format fail email expected:&lt;true&gt; but was:&lt;null&gt;&#13;
+steps.login.SingInSteps.validateUserNameField(SingInSteps.java:34)&#13;
+steps.login.SingInSteps.enterTheAccountWhitValidation(SingInSteps.java:19)&#13;
+defintions.login.SignInDefinitions.enterYourCredentialsValidation(SignInDefinitions.java:16)&#13;
+✽.enter your credential whit validation registerTest@gmail.com Colombia2024.(src/test/resources/features/login_user.feature:17)&#13;
+</system-err></testcase></testsuite>
