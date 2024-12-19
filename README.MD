@@ -30,3 +30,7 @@ the minimum viable product and the functionality of the module, as well as
 the same scenario can be executed but that performs the validations proposed 
 in the technical test, generating a regression scenario strategy complemented with
 the smoke testing technique.
+
+
+Bugs Report URL
+https://www.notion.so/Reporte-de-incidencias-161840c7ace28069b23be79feff0a1b6
